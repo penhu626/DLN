@@ -32,3 +32,5 @@ Just
 as 
 as
 example
+
+Link to [Awesome Protocol 1](Methods/Awesome _Protocol1.md)
